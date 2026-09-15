@@ -1,2 +1,2 @@
 # cmpt201-coursework
-Labs and Assignments workspace for CMPT201
+Workspace for CMPT201 Labs
